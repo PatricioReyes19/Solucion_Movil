@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imgLogo">100dp</dimen>
+    <dimen name="martop">5dp</dimen>
+    <dimen name="marleft">5dp</dimen>
+    <dimen name="marRigth">5dp</dimen>
+    <dimen name="marEnd">5dp</dimen>
+</resources>
